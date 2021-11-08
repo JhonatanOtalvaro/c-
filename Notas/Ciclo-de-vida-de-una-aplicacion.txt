@@ -1,0 +1,11 @@
+Ciclo de vida de una aplicación
+-------------------------------
+
+Define los pasos que se propone a hacer una aplicación
+	- Análisis: registros.
+	- Diseño: Esquemas.
+	- Codificación: Del diseño al código escrito.
+	- Pruebas: Funcionalidad de la aplicación. Código o pruebas unitarias.
+		- Alpha: personal no informático.
+		- Beta: Posibles problemas.
+	- Mantenimiento: Asegura que el sistema siga funcionando.
