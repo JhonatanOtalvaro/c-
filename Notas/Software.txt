@@ -1,0 +1,24 @@
+Software
+--------
+
+Soporte lógico que permite que la computadora pueda realizar tareas inteligentes.
+
+Sistema Operativo:
+	- Suministro de interfaz al usuario.
+	- Administración de recursos.
+	- Administración de archivos.
+	- Administración de tareas.
+	
+Controladores de dispositivos: 
+	- Drivers.
+	- Programas utilitarios.
+	- Software de aplicación.
+	- Software de programación.
+	
+Desarrollo de software.
+	- Programa: conjunto ordenado de instrucciones que permiten hacer tareas lógicas.
+	- Lenguaje de programación: conjunto de símbolos y reglas sintácticas.
+		- Lenguaje de alto nivel.
+		- Lenguaje de bajo nivel: Ensamblador.
+		- Compilación: otro programa que acepta un programa de alto nivel.
+		- Program Fuente (alto nivel).
