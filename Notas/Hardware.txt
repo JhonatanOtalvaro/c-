@@ -1,0 +1,12 @@
+Hardware
+----------
+
+Hardware: componentes físicos y tangibles.
+Software: Equipamiento lógico e intangible.
+
+Hardware: Monitor, teclado, ratón
+			- Placa base: placa de circuito impreso.
+			- Unidad central de procesamiento(CPU).
+				- Unidad de control.
+				- Unidad aritméticologica.
+				- Memoria principal (Ram o Rom o Caché).
