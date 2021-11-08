@@ -1,0 +1,22 @@
+Tipos de aplicación
+-------------------
+
+Que es una aplicación
+	- Permite al usuario realizar uno o diversos tipos de tareas.
+Software de aplicación
+	- Paquetes integrados de software.
+	- Procesadores de texto.
+	- Programas de diseño, multimedia, navegador, compresor, etc
+	
+		.NET:
+			- Aplicación de consola: ms2
+				- Aplicaciones windows.
+			- Aplicaciones de escritorios:
+				- Windows form: API.
+				- Microsoft windows native.
+			- Windows presentation fundation(WPF).
+			- Aplicaciones WEB: ASP.NET: Servidores web.
+			- Servicios web: windows comunication fundation
+			- Flujos de trabajo.
+			- Desarrolladas para azure: datacenters de microsoft.
+			
