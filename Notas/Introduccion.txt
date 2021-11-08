@@ -1,0 +1,15 @@
+Introducción a .NET
+-------------------
+
+- ¿QuÉ es .NET?
+
+Plataforma de desarrollo de código abierto y gratiuta para crear muchos tipos de aplicaciones,
+Usa biblioteca de clases.
+
+.NET = CLR (Common Languge Runtime)
+
+Sistema de tipos comunes: .net: Visual basic, c#, f#
+
+proyecto de c#: .CSPROJ
+proyecto de visual basic: .VBPROJ
+proyecto de base de datos: .DBPROJ

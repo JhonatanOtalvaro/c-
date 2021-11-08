@@ -1,0 +1,17 @@
+Procesamiento y almacenamiento de datos informáticos.
+-----------------------------------------------------
+Datos: Unidades individuales de información.
+Un dato puede ser desde un 1 hasta un 0 o la información de un cliente.
+
+Tipos de datos: Numéricos: Reportes de ventas, invetarios.
+				No numéricos: Nombres, direcciones, fotos, dibujos, mapas, etc.
+				
+Procesamiento de datos, manejo de datos de una forma mas útil.
+6 etapas: Origen: datos iniciales. documento fuente.
+		  Entrada: Forma conveniente para el procesamiento: apilados y organizados.
+		  Procesamiento: Ejecuciones necesarias, para información significativa.
+		  Salida: Recopila datos recogidos en el proceso.
+		  Distribución: Datos de salida: reportes a parte de los registros digitales.
+		  Almacenamiento: Para utilizarlos posteriormente como datos de entrada.
+		  
+		  	
