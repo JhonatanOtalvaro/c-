@@ -1,0 +1,15 @@
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\bin\Debug\net5.0\MySecondAPP.exe
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\bin\Debug\net5.0\MySecondAPP.deps.json
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\bin\Debug\net5.0\MySecondAPP.runtimeconfig.json
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\bin\Debug\net5.0\MySecondAPP.runtimeconfig.dev.json
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\bin\Debug\net5.0\MySecondAPP.dll
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\bin\Debug\net5.0\ref\MySecondAPP.dll
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\bin\Debug\net5.0\MySecondAPP.pdb
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\MySecondAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\MySecondAPP.AssemblyInfoInputs.cache
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\MySecondAPP.AssemblyInfo.cs
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\MySecondAPP.csproj.CoreCompileInputs.cache
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\MySecondAPP.dll
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\ref\MySecondAPP.dll
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\MySecondAPP.pdb
+C:\Curso c#\MyFirstAPPsol\MySecondAPP\obj\Debug\net5.0\MySecondAPP.genruntimeconfig.cache

@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace MyFirstAPP
+namespace MySecondAPP
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My First Hello World!");
+            Console.WriteLine("My Second Hello World!");
             Console.Read();
         }
     }
